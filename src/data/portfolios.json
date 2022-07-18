@@ -40,6 +40,12 @@
         },
 
         {
+            "cover": "/portfolio/1/tommy.png",
+            "title": "Jobs",
+            "url": "https://react6-twp.netlify.app"
+        },
+
+        {
             "cover": "/portfolio/1/video project.png",
             "title": "Video",
             "url": "https://dataa013.github.io/videoproject/"
@@ -97,12 +103,6 @@
             "cover": "/portfolio/1/numbers.png",
             "title": "Numbers",
             "url": "https://dataa013.github.io/numbers/"
-        },
-
-        {
-            "cover": "/portfolio/1/numbers.png",
-            "title": "Numbers",
-            "url": "https://react6-twp.netlify.app"
         }
 
     ]
