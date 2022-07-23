@@ -1,6 +1,11 @@
 {
     "portfolio": [
         {
+            "cover": "/portfolio/1/panda.png",
+            "title": "Panda",
+            "url": "pandafit.netlify.app"
+        },
+        {
             "cover": "/portfolio/1/demo.png",
             "title": "TRVL",
             "url": "https://react-trvl-1.netlify.app"
